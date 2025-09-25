@@ -15,6 +15,7 @@
 </div>  
 
 ---
+![Custom Badge](https://img.shields.io/badge/💜_Mayayra-Cute_Font-%23b9a2e6?style=for-the-badge&logoColor=white)
 
 ## 👋 Hey, I’m **Mayyara**
 > I am a software architecture engineering student I am currently in my fianal year.  
