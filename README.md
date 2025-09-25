@@ -43,6 +43,7 @@
 ---
 
 ## 📊 Stats  
+[![trophy](https://github-profile-trophy.vercel.app/?username=MayyaraHY&theme=dracula&title=Commits,PullRequest,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayyaraHY&show_icons=true&theme=radical&hide_border=true&bg_color=2C3E50&title_color=C39BD3&icon_color=D2B4DE&text_color=EAECEE" alt="GitHub stats"/>
