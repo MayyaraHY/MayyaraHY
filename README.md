@@ -43,17 +43,15 @@
 ---
 
 ## 📊 Stats  
-![Mayyara's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MayyaraHY&bg_color=2C3E50&color=C39BD3&line=98AFC7&point=C39BD3&area=true&hide_border=true)
 
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayyaraHY&show_icons=true&theme=radical&hide_border=true&bg_color=2C3E50&title_color=C39BD3&icon_color=D2B4DE&text_color=EAECEE" alt="GitHub stats"/>
-</p>
-<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=MayyaraHY&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=2C3E50&title_color=C39BD3&icon_color=D2B4DE&text_color=EAECEE" height="170" alt="GitHub stats"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayyaraHY&layout=compact&title_color=C39BD3&text_color=98AFC7&bg_color=2C3E50)  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayyaraHY&layout=compact&include_all_commits=true&count_private=true&title_color=C39BD3&text_color=98AFC7&bg_color=2C3E50&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
+
 
 ---
 
