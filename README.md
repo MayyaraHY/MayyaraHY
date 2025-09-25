@@ -28,7 +28,7 @@
 - Frontend: `Angular (also React)`  
 - AI/ML: `Python` (Google Colab, ML models)  
 
-✨ **Other tools I jam with:** `.NET • JIRA • GitHub • Google Colab • VueJs`  
+✨ **Other tools I jam with:** `.NET • JIRA • GitHub • Google Colab • VueJs • Docker`  
 
 ---
 
@@ -42,6 +42,18 @@
 
 ---
 
+
+## 💡 Featured Projects  
+
+📚  [**E-Learning Partnerships**](https://github.com/MayyaraHY/e-learning-partnerships)  – B2B modules, contract generation, tracking and customization <br/>
+💻 **Smart parnter** - Ml based module helps business owners choose their partners based on prediction and stats <br/>
+🎵 **HR Tracker** – Made employee management 60% smoother  <br/>
+🌿 **Store System** – Cozy admin + shopping flow  
+🌙 **Banking Tracker** – Smart balance, deposits, withdrawals  
+
+
+---
+
 ## 📊 Stats  
 
 <div align="center">
@@ -51,18 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayyaraHY&layout=compact&include_all_commits=true&count_private=true&title_color=C39BD3&text_color=98AFC7&bg_color=2C3E50&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
-
-
----
-
-## 💡 Featured Indie Projects  
-
-📚 **E-Learning Partnerships** – B2B modules, contract generation, tracking and customization <br/>
-💻 **Smart parnter** - Ml based module helps business owners choose their partners based on prediction and stats <br/>
-🎵 **HR Tracker** – Made employee management 60% smoother  <br/>
-🌿 **Store System** – Cozy admin + shopping flow  
-🌙 **Banking Tracker** – Smart balance, deposits, withdrawals  
-
 
 
 ---
