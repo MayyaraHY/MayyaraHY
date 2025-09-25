@@ -1,4 +1,4 @@
-![Custom Badge](https://img.shields.io/badge/💜Hey !! -Mayyara -%23b9a2e6?style=for-the-badge&logoColor=white)
+![Custom Badge](https://img.shields.io/badge/💜Hey !!-Mayyara-%23b9a2e6?style=for-the-badge&logoColor=white)
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5vaXRkZ3h2b2tlcGY3dHNpdm9jdWVuNHA1eWVhOHI1b2g4bGR6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273wltvPPLkC04QkA2/giphy.gif" width="600px" alt="retro computer gif"/>
