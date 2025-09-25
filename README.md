@@ -47,13 +47,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayyaraHY&show_icons=true&theme=radical&hide_border=true&bg_color=2C3E50&title_color=C39BD3&icon_color=D2B4DE&text_color=EAECEE" alt="GitHub stats"/>
 </p>
-<div align="center">
+<div align="center">  
 
-### 📊 Tech & Code Stats  
-
-![Mayyara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayyaraHY&show_icons=true&theme=dracula&title_color=C39BD3&icon_color=C39BD3&text_color=98AFC7&bg_color=2C3E50)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayyaraH&layout=compact&title_color=C39BD3&text_color=98AFC7&bg_color=2C3E50)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayyaraHY&layout=compact&title_color=C39BD3&text_color=98AFC7&bg_color=2C3E50)  
 
 </div>
 
