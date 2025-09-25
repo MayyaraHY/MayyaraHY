@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5vaXRkZ3h2b2tlcGY3dHNpdm9jdWVuNHA1eWVhOHI1b2g4bGR6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273wltvPPLkC04QkA2/giphy.gif" width="200px" alt="retro computer gif"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5vaXRkZ3h2b2tlcGY3dHNpdm9jdWVuNHA1eWVhOHI1b2g4bGR6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273wltvPPLkC04QkA2/giphy.gif" width="400px" alt="retro computer gif"/>
   <br/>
-  <i>"indie code • pastel dreams • retro beats"</i>
+  <i>"[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C39BD3.svg?&style=for-the-badge&logo=linkedin&logoColor=2C3E50)]([YOUR-LINKEDIN](https://www.linkedin.com/in/mayyara-haj-yahia-5b0199282/))  • [![Email](https://img.shields.io/badge/Email-%2398AFC7.svg?&style=for-the-badge&logo=gmail&logoColor=2C3E50)](mailto:hajyahia.mayyara@gmail.com)  "</i>
 </div>  
 
 ---
@@ -13,8 +13,7 @@
 
 ## 🌐 Find me in the wild  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C39BD3.svg?&style=for-the-badge&logo=linkedin&logoColor=2C3E50)]([YOUR-LINKEDIN](https://www.linkedin.com/in/mayyara-haj-yahia-5b0199282/))  
-[![Email](https://img.shields.io/badge/Email-%2398AFC7.svg?&style=for-the-badge&logo=gmail&logoColor=2C3E50)](mailto:hajyahia.mayyara@gmail.com)  
+ 
 --
 💻 **Main Stack**  
 - Backend: `Spring Boot / Java`  
