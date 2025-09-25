@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5vaXRkZ3h2b2tlcGY3dHNpdm9jdWVuNHA1eWVhOHI1b2g4bGR6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273wltvPPLkC04QkA2/giphy.gif" width="400px" alt="retro computer gif"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5vaXRkZ3h2b2tlcGY3dHNpdm9jdWVuNHA1eWVhOHI1b2g4bGR6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273wltvPPLkC04QkA2/giphy.gif" width="600px" alt="retro computer gif"/>
   <br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/mayyara-haj-yahia-5b0199282/" target="_blank">
