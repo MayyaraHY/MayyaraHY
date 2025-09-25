@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNlOHE4OGE3OHBmcGtweTV5ZWtyOWV5ajV1cDZubWxrcWUzeTI5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" width="200px" alt="retro computer gif"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5vaXRkZ3h2b2tlcGY3dHNpdm9jdWVuNHA1eWVhOHI1b2g4bGR6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273wltvPPLkC04QkA2/giphy.gif" width="200px" alt="retro computer gif"/>
   <br/>
   <i>"indie code • pastel dreams • retro beats"</i>
 </div>  
