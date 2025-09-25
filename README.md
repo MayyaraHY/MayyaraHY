@@ -18,19 +18,17 @@
 ---
 
 ## 👋 Hey, I’m **Mayyara**
-> I am a software architecture engineering student I am currently in my fianal year.  
+> I am a software architecture engineering student I am currently in my final year.
 ---
 
-## 🌐 Find me in the wild  
 
- 
 --
 💻 **Main Stack**  
 - Backend: `Spring Boot / Java`  
-- Frontend: `Angular (also React, Vue, JavaFX)`  
+- Frontend: `Angular (also React)`  
 - AI/ML: `Python` (Google Colab, ML models)  
 
-✨ **Other tools I jam with:** `.NET • JIRA • GitHub • Google Colab`  
+✨ **Other tools I jam with:** `.NET • JIRA • GitHub • Google Colab • VueJs`  
 
 ---
 
