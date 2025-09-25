@@ -58,8 +58,8 @@
 ## 💡 Featured Indie Projects  
 
 📚 **E-Learning Partnerships** – B2B modules, contract generation, tracking and customization <br/>
-💻 **Smart parnter** - Ml based module helps business owners choose their partners based on prediction and stats
-🎵 **HR Tracker** – Made employee management 60% smoother  
+💻 **Smart parnter** - Ml based module helps business owners choose their partners based on prediction and stats <br/>
+🎵 **HR Tracker** – Made employee management 60% smoother  <br/>
 🌿 **Store System** – Cozy admin + shopping flow  
 🌙 **Banking Tracker** – Smart balance, deposits, withdrawals  
 
