@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200px" alt="retro computer gif"/>
+  <img src="[https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNlOHE4OGE3OHBmcGtweTV5ZWtyOWV5ajV1cDZubWxrcWUzeTI5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif)" width="200px" alt="retro computer gif"/>
   <br/>
   <i>"indie code • pastel dreams • retro beats"</i>
 </div>  
@@ -9,7 +9,13 @@
 
 ## 👋 Hey, I’m **Mayyara**
 > I am a software architecture engineering student I am currently in my fianal year.  
+---
 
+## 🌐 Find me in the wild  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C39BD3.svg?&style=for-the-badge&logo=linkedin&logoColor=2C3E50)]([YOUR-LINKEDIN](https://www.linkedin.com/in/mayyara-haj-yahia-5b0199282/))  
+[![Email](https://img.shields.io/badge/Email-%2398AFC7.svg?&style=for-the-badge&logo=gmail&logoColor=2C3E50)](mailto:hajyahia.mayyara@gmail.com)  
+--
 💻 **Main Stack**  
 - Backend: `Spring Boot / Java`  
 - Frontend: `Angular (also React, Vue, JavaFX)`  
@@ -32,7 +38,7 @@
 ## 📊 Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=2C3E50&title_color=C39BD3&icon_color=D2B4DE&text_color=EAECEE" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MayyaraHY&show_icons=true&theme=radical&hide_border=true&bg_color=2C3E50&title_color=C39BD3&icon_color=D2B4DE&text_color=EAECEE" alt="GitHub stats"/>
 </p>
 
 ---
@@ -45,12 +51,7 @@
 🌿 **Store System** – Cozy admin + shopping flow  
 🌙 **Banking Tracker** – Smart balance, deposits, withdrawals  
 
----
 
-## 🌐 Find me in the wild  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C39BD3.svg?&style=for-the-badge&logo=linkedin&logoColor=2C3E50)]([YOUR-LINKEDIN](https://www.linkedin.com/in/mayyara-haj-yahia-5b0199282/))  
-[![Email](https://img.shields.io/badge/Email-%2398AFC7.svg?&style=for-the-badge&logo=gmail&logoColor=2C3E50)](mailto:hajyahia.mayyara@gmail.com)  
 
 ---
 
