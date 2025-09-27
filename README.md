@@ -45,7 +45,7 @@
 
 ## 💡 Featured Projects  
 
-📚  [**E-Learning Partnerships**](https://github.com/MayyaraHY/e-learning-partnerships)  – B2B modules, contract generation, tracking and customization <br/>
+📚  [**E-Learning Partnerships**]([https://github.com/MayyaraHY/e-learning-partnerships](https://github.com/MayyaraHY/Elearning/tree/partnership))  – B2B modules, contract generation, tracking and customization <br/>
 💻 **Smart parnter** - Ml based module helps business owners choose their partners based on prediction and stats <br/>
 🎵 **HR Tracker** – Made employee management 60% smoother  <br/>
 🌿 **Store System** – Cozy admin + shopping flow  
