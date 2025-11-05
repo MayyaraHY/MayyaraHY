@@ -11,7 +11,7 @@
   <a href="mailto:hajyahia.mayyara@gmail.com">
     <img src="https://img.shields.io/badge/Email-%2398AFC7.svg?&style=for-the-badge&logo=gmail&logoColor=2C3E50" alt="Email"/>
   </a>
-  <a href="https://mayyara-hajyahia.github.io/portfolio/" target="_blank">
+  <a href="http://localhost:5173/Portfolio" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-%23b9a2e6.svg?&style=for-the-badge&logo=vercel&logoColor=2C3E50" alt="Portfolio"/>
     </a>
 </div>
